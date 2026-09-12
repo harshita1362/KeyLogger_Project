@@ -1,4 +1,4 @@
-🔐 KeyLogger Project
+🔐 KeyLogger Project (Keystroke_logging_Project)
 
 A Python-based Keyboard Event Monitoring project built with Tkinter and pynput to demonstrate keyboard event handling, GUI integration, and file-based logging.
 
